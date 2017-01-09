@@ -23,7 +23,7 @@ household_data$Sub_metering_2 <- as.numeric(household_data$Sub_metering_2)
 household_data$Sub_metering_3 <- as.numeric(household_data$Sub_metering_3)
 
 #----------------------------
-# Creating "Plot 2"
+# Creating "Plot 3"
 # The first plot is essentially a histogram that displays the frequency of the column "Global Active Power".
 # To be noted that thw Histogram is colored red.
 
